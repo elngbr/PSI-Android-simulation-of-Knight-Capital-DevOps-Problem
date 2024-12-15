@@ -1,15 +1,6 @@
 # PSI-Android-simulation-of-Knight-Capital-DevOps-Problem
 An Android primitive way of observing the logic behind the Power Peg Problem from 2012 which persuaded HFT companies into applying the methodology of DevOps
 
-
-Sure! Here's the **README.md** file for your project, explaining the purpose of the code, the algorithms, and how it relates to the Knight Capital incident:
-
----
-
-# Stock Trading Simulation App
-
-## Overview
-
 This Android application simulates two trading algorithms that perform stock transactions. One algorithm is a **Price Optimizing Algorithm** designed to buy stocks at the lowest price, and the other is a **Speed-Focused Algorithm**, which exaggerates buying the most expensive stock to demonstrate how different strategies can impact the market. The simulation mimics a scenario similar to the **Knight Capital incident**, where a misconfigured trading algorithm caused massive market disruption due to conflicting trading strategies.
 
 ## Purpose
@@ -104,6 +95,3 @@ By running both algorithms simultaneously, the application simulates how two con
 
 This app serves as a **simulation** for algorithmic trading, exaggerating certain aspects (like speed and price optimization) to highlight how conflicting algorithms can destabilize the market. By using the **Knight Capital** incident as inspiration, it emphasizes the importance of **algorithm synchronization** and the **risks** associated with uncoordinated trading strategies in the financial markets.
 
----
-
-Let me know if you need any more details or adjustments to the README!
